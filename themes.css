@@ -44,14 +44,14 @@ button.facebook {
   color: white;
   font-size: 12px;
   font-weight: 700;
-  height: 32px;
-  background: rgba(0, 0, 0, 0);
+  height: 40px;
+  background: #3B5998;
   border: none;
   padding: 10px 15px;
 }
 
 main button.facebook {
-  color: #606770;
+  color: white;
 }
 
 .twitter {
